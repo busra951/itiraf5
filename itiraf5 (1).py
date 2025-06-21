@@ -12,7 +12,7 @@ from telegram.ext import (
 
 # Bot ayarların
 BOT_TOKEN      = "7936867639:AAH5BOUyG0EeEUw5QGNLZPgajxFcAqFsreE"
-ADMIN_GROUP_ID = -1002607082304  # Admin grubu
+ADMIN_GROUP_ID = -1002532660895  # Admin grubu
 CHANNEL_ID     = -1002686896561  # (istersen kullan)
 KANAL_LINK     = "https://t.me/aramizda_kalsin_sohbet_muhabbet"
 BOT_LINK       = "https://t.me/Aramizdakalsin_bot"
