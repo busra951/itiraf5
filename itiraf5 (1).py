@@ -14,8 +14,8 @@ from telegram.ext import (
 BOT_TOKEN      = "7936867639:AAH5BOUyG0EeEUw5QGNLZPgajxFcAqFsreE"
 ADMIN_GROUP_ID = -1002532660895  # Admin grubu
 CHANNEL_ID     = -1002686896561  # (istersen kullan)
-KANAL_LINK     = "https://t.me/aramizda_kalsin_sohbet_muhabbet"
-BOT_LINK       = "https://t.me/Aramizdakalsin_bot"
+KANAL_LINK     = "https://t.me/goygoy_itiraf"
+BOT_LINK       = "https://t.me/GoyGoyitiraf_Bot"
 
 # Durum saklama
 awaiting_confession = set()
